@@ -18,4 +18,4 @@ Movie Trailer Website Checklist
 
 >If you're using Python IDLE to run the application, selet Run from the IDLE's menu and click <pre><code>Run Module</code></pre> from the dropdown list. 
 
-
+-Pass Date: 2017.12.04 (Maybe)
