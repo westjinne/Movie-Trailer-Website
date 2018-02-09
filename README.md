@@ -2,6 +2,11 @@ README.md
 ============
 Movie Trailer Website Checklist
 ---------------------------------
+###Udacity Nanodegree: Full Stack Web Developer Nanodegree Program Project01
+
+###Pass Date 
+>2017.12.04 (Maybe)
+
 ###Python Version
 >python 2.7.14
 
@@ -17,5 +22,3 @@ Movie Trailer Website Checklist
 <pre><code> entertainment_center </code></pre>
 
 >If you're using Python IDLE to run the application, selet Run from the IDLE's menu and click <pre><code>Run Module</code></pre> from the dropdown list. 
-
--Pass Date: 2017.12.04 (Maybe)
